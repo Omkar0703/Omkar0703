@@ -9,7 +9,7 @@
 # 💫About Me 
 •🌱 I’m currently learning - MERN Stack <br>
 • 📫 How to reach me -  omkarsutar5127@gmail.com <br>
-• 👨‍💻 All of my projects are available at - [PORTFOLIO](portfollio-three.vercel.app) <br>
+• 👨‍💻 All of my projects are available at - [PORTFOLIO](https://portfollio-three.vercel.app/#home) <br>
 • 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/13OxR6CXZ7tV6RlHN-bIpG-nNFaFFV36C/view?usp=share_link)
 
 
