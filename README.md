@@ -1,6 +1,9 @@
 Hi 👋, I'm Omkar Sutar
 An Aspiring full stack web developer from Kolhapur, India
 
+![image](https://user-images.githubusercontent.com/107262648/201954040-2997fcbe-2fb0-4896-b238-76773f6eac20.png)
+
+
 💫About Me
 •🌱 I’m currently learning - MERN Stack
 • 📫 How to reach me - omkarsutar5127@gmail.com
